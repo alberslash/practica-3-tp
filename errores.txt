@@ -1,0 +1,10 @@
+Comienzo errores
+Exception in thread "main" java.io.FileNotFoundException: simwhi.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.util.Scanner.<init>(Unknown Source)
+	at Main.Engine.executeLoad(Engine.java:128)
+	at Commands.LoadFich.execute(LoadFich.java:20)
+	at Main.Engine.start(Engine.java:46)
+	at Main.Main.main(Main.java:24)

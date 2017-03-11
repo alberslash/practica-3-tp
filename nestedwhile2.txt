@@ -1,0 +1,6 @@
+x = 5
+r = 0
+while 0 < x
+y = x
+endwhile
+end

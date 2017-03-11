@@ -1,0 +1,7 @@
+x = 5
+r = 1
+while x = 0 
+endwhile
+write r
+return
+end

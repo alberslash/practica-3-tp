@@ -1,0 +1,8 @@
+do
+x = 7
+y = 6
+x = x + 2
+while x < 5
+endwhile
+enddo
+end
